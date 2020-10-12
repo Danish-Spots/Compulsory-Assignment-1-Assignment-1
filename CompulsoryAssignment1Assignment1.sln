@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompulsoryAssignment1Assingment1", "CompulsoryAssignment1Assignment1\CompulsoryAssignment1Assingment1.csproj", "{38B653D0-DD14-4CA5-8C2A-51F58B3ECD70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompulsoryAssignment1Assignment1", "CompulsoryAssignment1Assignment1\CompulsoryAssignment1Assignment1.csproj", "{38B653D0-DD14-4CA5-8C2A-51F58B3ECD70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCA1A1", "TestCA1A1\TestCA1A1.csproj", "{B4F5A812-0940-4936-A8F1-20DDACA52DC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCA1A1", "TestCA1A1\TestCA1A1.csproj", "{B4F5A812-0940-4936-A8F1-20DDACA52DC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

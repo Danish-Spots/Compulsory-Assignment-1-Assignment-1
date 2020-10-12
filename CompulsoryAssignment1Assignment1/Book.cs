@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CompulsoryAssignment1Assingment1
+namespace CompulsoryAssignment1Assignment1
 {
     public class Book
     {

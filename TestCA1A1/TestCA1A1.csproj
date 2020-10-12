@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Mock1Assignment1\CompulsoryAssignment1Assingment1.csproj" />
+    <ProjectReference Include="..\CompulsoryAssignment1Assignment1\CompulsoryAssignment1Assignment1.csproj" />
   </ItemGroup>
 
 </Project>

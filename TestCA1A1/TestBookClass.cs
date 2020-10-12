@@ -1,5 +1,5 @@
 using System;
-using CompulsoryAssignment1Assingment1;
+using CompulsoryAssignment1Assignment1;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TestCA1A1
