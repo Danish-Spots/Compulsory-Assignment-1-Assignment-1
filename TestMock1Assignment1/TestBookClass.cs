@@ -1,8 +1,8 @@
 using System;
+using CompulsoryAssignment1Assingment1;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Mock1Assignment1;
 
-namespace TestMock1Assignment1
+namespace TestCA1A1
 {
     [TestClass]
     public class TestBookClass

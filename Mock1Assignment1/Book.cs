@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Mock1Assignment1
+namespace CompulsoryAssignment1Assingment1
 {
     public class Book
     {
